@@ -1,0 +1,2 @@
+# Exercícío introdutório do Git com arquivos TXT e imagens
+## Atividade aula 03
